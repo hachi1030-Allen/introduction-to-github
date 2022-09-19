@@ -5,7 +5,7 @@
   Add your open source license, GitHub uses Creative Commons Attribution 4.0 International.
 -->
 
-Adding an emoji. :smiley: :smiley: :smiley:
+Adding some emojis. :smiley: :smiley: :smiley:
 
 # Hello GitHub Actions
 
